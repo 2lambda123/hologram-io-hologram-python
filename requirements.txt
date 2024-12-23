@@ -1,4 +1,4 @@
-pyroute2==0.7.*
+pyroute2==0.8.*
 pyserial~=3.5
 python-pppd==1.0.8
 python-sdk-auth==0.4.0
